@@ -1,0 +1,3 @@
+/home/aleks/Desktop/STUDIA/niduc/cmake-build-debug/CMakeFiles/niduc.dir
+/home/aleks/Desktop/STUDIA/niduc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aleks/Desktop/STUDIA/niduc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
